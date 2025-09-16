@@ -71,7 +71,7 @@ Logstash → HTML Email Alerts + Kibana Dashboards
 
 ### Automated Installation
 
-Visit our web installer: ****
+Visit our web installer: **[https://abdullah-mehtab.github.io/Cyber-Sentinal/](https://abdullah-mehtab.github.io/Cyber-Sentinal/)**
 
 The installer wizard handles:
 - Version-controlled installation of all components
